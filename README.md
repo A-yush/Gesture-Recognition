@@ -5,6 +5,9 @@
 * [Problem Statement](#problem-statement)
 * [Dataset](#dataset)
 * [CNN Architecture Design](#cnn-design)
+* [Model Architecture](#model-architecture)
+* [Model Evaluation](#model-evaluation)
+* [Result](#result)
 * [References](#references)
 * [Technologies Used](#technologies-used)
 * [Contact](#contact)
@@ -44,20 +47,20 @@ To classify skin cancer using skin lesions images. To achieve higher accuracy an
 
 ## Model Architecture
 
+![model-architecture](https://github.com/A-yush/Gesture-Recognition/blob/master/images/Conv3D-structure.png)
 
 ## Model Evaluation
 
-## Result
-
-
-## References
-Data : https://drive.google.com/uc?id=1ehyrYBQ5rbQQe6yL4XbLWe3FMvuVUGiL
+![model-evaluation](https://github.com/A-yush/Gesture-Recognition/blob/master/images/train-val-accuracy.png)
 
 ## Result
 - Training categorical loss = 0.2606
 - Training categorical accuracy = 0.9035
 - Validation categorical loss = 0.3139
 - Validation categorical accuracy: 0.8900
+
+## References
+Data : https://drive.google.com/uc?id=1ehyrYBQ5rbQQe6yL4XbLWe3FMvuVUGiL
 
 ## Technologies Used
 - Tensorflow - 2.3.4
