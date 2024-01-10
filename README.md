@@ -1,4 +1,4 @@
-# Melanoma skin cancer Detection
+# Gesture Recognition
 > Building a neural network which correctly identifies the gestures in the form of video frames. It is a multiclass classification problem.
 
 ## Table of Contents
